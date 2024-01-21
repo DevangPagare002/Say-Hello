@@ -1,0 +1,16 @@
+|----- static                               <- css folder
+|       |----- css                          <- css files
+|               |----- main.css             <- the css for all web pages
+|
+|
+|----- templates                            <- html templates
+|       |----- index.html                   <- main HTML file
+|
+|
+|----- venv                                 <- virtual environment
+|
+|
+|----- requirements.txt                     <- project libraries and dependencies
+|
+|
+|----- app.py                               <- App's backend
